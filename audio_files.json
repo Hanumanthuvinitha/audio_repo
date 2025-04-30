@@ -1,16 +1,18 @@
-[
-    "received_audio_20250311_122347.wav",
-    "received_audio_20250311_123725 (1).wav",
-    "received_audio_20250311_123725 (2).wav",
-    "received_audio_20250311_123725.wav",
-    "received_audio_20250319_113020 (1).wav",
-    "received_audio_20250319_113020.wav",
-    "received_audio_20250319_113143.wav",
-    "received_audio_20250319_113258.wav",
-    "received_audio_20250319_113413 (2).wav",
-    "received_audio_20250319_113413 (3).wav",
-    "received_audio_20250405_091200.wav",
-    "received_audio_20250405_091343.wav",
-    "received_audio_20250405_091549.wav",
-    "received_audio_20250405_091732.wav"
-]
+{
+    "audio_files": [
+        "received_audio_20250311_122347.wav",
+        "received_audio_20250311_123725 (1).wav",
+        "received_audio_20250311_123725 (2).wav",
+        "received_audio_20250311_123725.wav",
+        "received_audio_20250319_113020 (1).wav",
+        "received_audio_20250319_113020.wav",
+        "received_audio_20250319_113143.wav",
+        "received_audio_20250319_113258.wav",
+        "received_audio_20250319_113413 (2).wav",
+        "received_audio_20250319_113413 (3).wav",
+        "received_audio_20250405_091200.wav",
+        "received_audio_20250405_091343.wav",
+        "received_audio_20250405_091549.wav",
+        "received_audio_20250405_091732.wav"
+    ]
+}
